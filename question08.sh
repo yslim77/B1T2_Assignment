@@ -9,7 +9,7 @@ mkdir dir2
 mv *.txt dir2/
 
 #Stage the changes
-git add dir2/*.txt
+git rm q8*.txt
 
 #Commit the changes
 git commit -m "Move text files to dir2"

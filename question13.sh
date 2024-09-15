@@ -4,6 +4,7 @@
 git checkout branch13
 
 # Remove .sh files
+rm *sh
 git rm *.sh
 
 # Create a new text file
